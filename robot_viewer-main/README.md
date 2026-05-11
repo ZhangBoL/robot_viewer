@@ -83,4 +83,3 @@ Robot Viewer builds upon the excellent work of the open-source robotics communit
 
 Special thanks to all the maintainers and contributors of these projects for their foundational work.
 
-Parts of this project were developed with the assistance of [Cursor](https://cursor.sh).
